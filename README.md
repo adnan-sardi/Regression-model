@@ -1,3 +1,6 @@
 # Regression-model
 
-[Regression model.pdf](https://github.com/adnan-sardi/Regression-model/files/9708992/Regression.model.pdf)
+The goal about this project is create a regression about different type of datas finding which of one are the y variabile throuh exploration data for than plot the regression line 
+
+![bnug59b5 1_(29)_(1)](https://user-images.githubusercontent.com/104760218/193879017-eefc859f-3afb-4581-8f49-f9ea6380cb48.jpg)
+
